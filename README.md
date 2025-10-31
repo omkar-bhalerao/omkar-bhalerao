@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Omkar</h2>
+<h2 align="left">Hi 👋! My name is Omkar, You can Ask me anything about our B2C Business and Marketing Efforts for B2C!</h2>
 
 
 <img align="right" height="150" src="https://preview.redd.it/me-starting-working-after-graduation-v0-iaoxv23z40za1.jpg?width=1080&crop=smart&auto=webp&s=dfbca5821c33e48d45830e4ffef6933a488d33ee"  />

@@ -51,7 +51,7 @@
 </ul>
 
 <h3>🗣️ Fun Fact</h3>
-<p>I think like a marketer, code like an analyst, and forecast like a (not yet but potential/prospective) data scientist.</p>
+<p>I think like a marketer, code like an analyst, and forecast like a (not yet but potential/prospective/aims to be) data scientist.</p>
 
 
 
